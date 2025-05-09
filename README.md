@@ -2,7 +2,11 @@
 
 Wolfshöhle is a breakout/host board and I/O expander for [Zwölf](https://github.com/machdyne/zwolf) modules.
 
+![Wolfshohle](https://github.com/machdyne/wolfshohle/blob/0d6482a76f4ff54e1aa54051d0f1de31663d4a2e/wolfshohle.png)
+
 This repo contains schematics, pinouts and a 3D-printable Zwölf socket for the spring connector.
+
+Find more information on the [Wolfehöhle product page](https://machdyne.com/product/zwolf-wolfshohle/).
 
 ## Pinout
 
